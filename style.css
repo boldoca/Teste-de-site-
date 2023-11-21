@@ -12,7 +12,7 @@ body {
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 30px;
 }
 
 .titulo-centralizado {
@@ -24,7 +24,7 @@ p {
 }
 
 #missao {
-	font-size: 30px
+	font-size: 40px
 }
 
 em strong {
@@ -37,7 +37,7 @@ em strong {
 
 .beneficios {
 	background: #FFFFFF;
-	padding: 20px;
+	padding: 25px;
 }
 
 ul {
